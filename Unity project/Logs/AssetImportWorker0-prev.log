@@ -1,0 +1,226 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/bhumikabhatia/Desktop/INSGameV4/decipher/Unity project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63742
+Successfully changed project path to: /Users/bhumikabhatia/Desktop/INSGameV4/decipher/Unity project
+/Users/bhumikabhatia/Desktop/INSGameV4/decipher/Unity project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 39.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/bhumikabhatia/Desktop/INSGameV4/decipher/Unity project/Assets
+GfxDevice: creating device client; threaded=0
+2021-11-20 03:21:16.280 Unity[53099:973535] (null) preferred device: Apple M1 (high power)
+2021-11-20 03:21:16.280 Unity[53099:973535] Metal devices available: 1
+2021-11-20 03:21:16.280 Unity[53099:973535] 0: Apple M1 (high power)
+2021-11-20 03:21:16.280 Unity[53099:973535] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Shader 'Outlined/Silhouetted Bumped Diffuse': fallback shader 'Outlined/Silhouetted Diffuse' not found
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56099
+Begin MonoManager ReloadAssembly
+Error scanning for extension ivy.xml files: System.UnauthorizedAccessException: Access to the path '/Applications/Unity/PlaybackEngines/WebGLSupport/BuildTools/Emscripten_Mac/node' is denied.
+  at System.IO.__Error.WinIOError (System.Int32 errorCode, System.String maybeFullPath) [0x00129] in <9577ac7a62ef43179789031239ba8798>:0 
+  at System.IO.FileSystemEnumerableIterator`1[TSource].HandleError (System.Int32 hr, System.String path) [0x00006] in <9577ac7a62ef43179789031239ba8798>:0 
+  at System.IO.FileSystemEnumerableIterator`1[TSource].AddSearchableDirsToStack (System.IO.Directory+SearchData localSearchData) [0x00053] in <9577ac7a62ef43179789031239ba8798>:0 
+  at System.IO.FileSystemEnumerableIterator`1[TSource].MoveNext () [0x0008e] in <9577ac7a62ef43179789031239ba8798>:0 
+  at System.Collections.Generic.List`1[T]..ctor (System.Collections.Generic.IEnumerable`1[T] collection) [0x00077] in <9577ac7a62ef43179789031239ba8798>:0 
+  at System.IO.Directory.InternalGetFileDirectoryNames (System.String path, System.String userPathOriginal, System.String searchPattern, System.Boolean includeFiles, System.Boolean includeDirs, System.IO.SearchOption searchOption, System.Boolean checkHost) [0x0000f] in <9577ac7a62ef43179789031239ba8798>:0 
+  at System.IO.Directory.InternalGetFiles (System.String path, System.String searchPattern, System.IO.SearchOption searchOption) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
+  at System.IO.Directory.GetFiles (System.String path, System.String searchPattern, System.IO.SearchOption searchOption) [0x00038] in <9577ac7a62ef43179789031239ba8798>:0 
+  at UnityEditor.Modules.ModuleManager.LoadLegacyExtensionsFromIvyFiles () [0x000a5] in /Users/bokken/buildslave/unity/build/Editor/Mono/Modules/ModuleManager.cs:253 
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001768 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 41.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.102 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001490 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.343 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Outlined/Silhouetted Bumped Diffuse': fallback shader 'Outlined/Silhouetted Diffuse' not found
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1134 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.8 MB.
+System memory in use after: 139.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 1.803458 ms (FindLiveObjects: 0.184000 ms CreateObjectMapping: 0.049417 ms MarkObjects: 1.471583 ms  DeleteObjects: 0.095583 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/DontGoThroughThings.cs
+  artifactKey: Guid(9b63a9c83c54fef4e870f97f19ecdfc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DontGoThroughThings.cs using Guid(9b63a9c83c54fef4e870f97f19ecdfc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a2692da37a9102d5a810018d07bc13') in 1.163245 seconds
+  Import took 1.165946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Scripts/Scene0Controller.cs
+  artifactKey: Guid(0de608f7c2f6edc42a19ca70f5de28ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Scene0Controller.cs using Guid(0de608f7c2f6edc42a19ca70f5de28ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39d39f843fb1023d7117a3517eb108f2') in 0.003193 seconds
+  Import took 0.005382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.307812 seconds.
+  path: Assets/Scripts/Scene1Controller.cs
+  artifactKey: Guid(bda1fbe670260534c95df0e5dbeac759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Scene1Controller.cs using Guid(bda1fbe670260534c95df0e5dbeac759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff855e3ff02bcc5f493868b164f9e82') in 0.003552 seconds
+  Import took 0.006543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.235282 seconds.
+  path: Assets/Scripts/Utility
+  artifactKey: Guid(707b3a29ce52eaf46803090e20ca7a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Utility using Guid(707b3a29ce52eaf46803090e20ca7a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d8b32a6d75c30b537689bb8f8e35f5') in 0.001134 seconds
+  Import took 0.004424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.110510 seconds.
+  path: Assets/Scripts/Win.cs
+  artifactKey: Guid(3d8417e3ed9fc234fb341d9d3107175e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Win.cs using Guid(3d8417e3ed9fc234fb341d9d3107175e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e63d68c400c532dc402859e8eb9eed') in 0.004207 seconds
+  Import took 0.007374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Scripts/Win.cs
+  artifactKey: Guid(3d8417e3ed9fc234fb341d9d3107175e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Win.cs using Guid(3d8417e3ed9fc234fb341d9d3107175e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e63d68c400c532dc402859e8eb9eed') in 0.003197 seconds
+  Import took 0.005810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.341534 seconds.
+  path: Assets/Scripts/BaseController.cs
+  artifactKey: Guid(451847669cec4b24ab3386d292cd4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BaseController.cs using Guid(451847669cec4b24ab3386d292cd4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8047605dea4229ffa36c1c3ae4f799') in 0.003852 seconds
+  Import took 0.006759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.216604 seconds.
+  path: Assets/Scripts/Controls/UnityControls.cs
+  artifactKey: Guid(d7ad3647b07803b42824dd5cd9a17a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Controls/UnityControls.cs using Guid(d7ad3647b07803b42824dd5cd9a17a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee0b127fbe3abefc3506358f7d967fc1') in 0.004161 seconds
+  Import took 0.007547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.315208 seconds.
+  path: Assets/Scripts/UseableItems/RotateOnUse.cs
+  artifactKey: Guid(ebfe5b8fae80da24d91b8b3e64cf71f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UseableItems/RotateOnUse.cs using Guid(ebfe5b8fae80da24d91b8b3e64cf71f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a621ebb9f5c8276570e54e7cbc0bd732') in 0.003748 seconds
+  Import took 0.006680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.675736 seconds.
+  path: Assets/Scripts/UseableItems/MoveOnUse.cs
+  artifactKey: Guid(c36571fe8b10e9a4192d98b3c79ee33d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UseableItems/MoveOnUse.cs using Guid(c36571fe8b10e9a4192d98b3c79ee33d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029919e8d9449ab1f050e13a71edbb07') in 0.003865 seconds
+  Import took 0.006749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.032190 seconds.
+  path: Assets/Scripts/UseableItems/ItemMenager.cs
+  artifactKey: Guid(c4848be90668a7641a34c8c74c1f14a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UseableItems/ItemMenager.cs using Guid(c4848be90668a7641a34c8c74c1f14a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a213f2d909cd5e52a3dad18b599d5a6') in 0.003772 seconds
+  Import took 0.006755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.792831 seconds.
+  path: Assets/Scripts/Tags.cs
+  artifactKey: Guid(3f82d20c6f7205443a38f436726bc1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tags.cs using Guid(3f82d20c6f7205443a38f436726bc1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b3a9f361557efceeed40a1a3c685b46') in 0.004068 seconds
+  Import took 0.007953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.297567 seconds.
+  path: Assets/Scripts/Utility/CurveControlledBob.cs
+  artifactKey: Guid(492f54f4accf00440828ffcb9e4fcc19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Utility/CurveControlledBob.cs using Guid(492f54f4accf00440828ffcb9e4fcc19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fa94a9e7c60ede4606d34aa44303e6b') in 0.003426 seconds
+  Import took 0.006338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003116 seconds.
+  path: Assets/Scripts/Utility/CurveControlledBob.cs
+  artifactKey: Guid(492f54f4accf00440828ffcb9e4fcc19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Utility/CurveControlledBob.cs using Guid(492f54f4accf00440828ffcb9e4fcc19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fa94a9e7c60ede4606d34aa44303e6b') in 0.003555 seconds
+  Import took 0.006221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.845162 seconds.
+  path: Assets/Scripts/CharacterController/FirstPersonController.cs
+  artifactKey: Guid(05ec5cf00ca181d45a42ba1870e148c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CharacterController/FirstPersonController.cs using Guid(05ec5cf00ca181d45a42ba1870e148c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3855c475b975d8e6811094d30d3bcefa') in 0.003692 seconds
+  Import took 0.006539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008076 seconds.
+  path: Assets/Scripts/CharacterController/FirstPersonController.cs
+  artifactKey: Guid(05ec5cf00ca181d45a42ba1870e148c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CharacterController/FirstPersonController.cs using Guid(05ec5cf00ca181d45a42ba1870e148c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3855c475b975d8e6811094d30d3bcefa') in 0.002767 seconds
+  Import took 0.005481 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Outlined/Silhouetted Bumped Diffuse': fallback shader 'Outlined/Silhouetted Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.5 MB.
+System memory in use after: 121.6 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 6.322833 ms (FindLiveObjects: 0.291833 ms CreateObjectMapping: 0.034500 ms MarkObjects: 5.958709 ms  DeleteObjects: 0.036333 ms)
+

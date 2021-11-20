@@ -1023,7 +1023,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: L
+  m_Text: I
 --- !u!222 &166900334
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1203,7 +1203,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: E
+  m_Text: T
 --- !u!222 &187669642
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1854,7 +1854,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 
+  m_Text: S
 --- !u!222 &409348270
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2753,7 +2753,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: O
+  m_Text: A
 --- !u!222 &495258963
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4725,7 +4725,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: A
+  m_Text: E
 --- !u!222 &1072414898
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4947,7 +4947,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: I
+  m_Text: E
 --- !u!222 &1122431664
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11512,7 +11512,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: E
+  m_Text: 
 --- !u!222 &1565816635
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11591,7 +11591,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: S
+  m_Text: O
 --- !u!222 &1595601194
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11962,7 +11962,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: T
+  m_Text: R
 --- !u!222 &1647369144
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13078,7 +13078,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: R
+  m_Text: L
 --- !u!222 &1833146771
 CanvasRenderer:
   m_ObjectHideFlags: 0
